@@ -2,6 +2,9 @@
 ===============
 
 @Follow the step to run the project:
+You can view the web page here:
+https://vilal-ali.github.io/my-profile/
+
 >>>	Download the zip file in your local machine.
 >>>	Extract the downloaded zip file in your local machine.
 >>>	Open the directory and dubble click on the "index.html" file to run the project.
