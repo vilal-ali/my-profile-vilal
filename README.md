@@ -13,11 +13,12 @@
 ## Assumption
 @Directory tree look like that:
    |_2020900023_Assignment2
-	   |__static
-			|___css
-			|___img
-			|___js
-			|___doc
+   	|
+	static
+	     |___css
+	     |___img
+	     |___js
+	     |___doc
 
 @Directory discription:
 >>> Directory "2020900023_Assignment2"
@@ -40,15 +41,3 @@
 	>>	Contact information is displayed here.
 
 ================================================================
-
-# Special Note-
-@Sir, I have tried many times to ;ogin into the web using ssh command to upload the directory on web.iiit.ac.in __public_html__. But I am facing problem at the time of login into the web.iiit.ac.in. 
-==== I am running the following command:
->>> First I have run the open vpn and then try to login.
->>>	$ <ssh vilal.ali@web.iiit.ac.in> Press enter
->>> $ Asking for password, and when I enter my webmail.iiit.ac.in password then the following message displayed on screen.
-====First command #$ ssh vilal.ali@web.iiit.ac.in
-====Now asking for password. After the enterning the password the error messg display in terminal:
-___permission denied, Please try again.
-
-So what i to do to upload the zip file in _public_html.
